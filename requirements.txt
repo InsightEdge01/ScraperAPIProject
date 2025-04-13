@@ -1,0 +1,12 @@
+streamlit
+pandas
+openai
+bs4
+python-dotenv
+langchain 
+faiss-cpu
+langchain-community
+tiktoken
+unstructured
+#duckduckgo-search
+#langchain-community
